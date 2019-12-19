@@ -1,0 +1,65 @@
+{
+    "name": "CoreOS",
+    "description": "Learn more about how CoreOS and Red Hat have joined forces to extend the value of containers and Kubernetes with OpenShift Container Platform.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/11505-coreos-linux.jpg",
+    "tags": [
+        "api service provider",
+        "containers",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/coreos\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "CoreOS",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/11505-coreos-linux.jpg",
+            "humanURL": "https:\/\/coreos.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/coreos-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/coreos-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "https:\/\/coreos.com\/blog\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "https:\/\/coreos.com\/atom.xml"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/coreos"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/coreos"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/coreoslinux"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/coreos"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/coreos.com\/"
+        }
+    ]
+}
