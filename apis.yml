@@ -41,7 +41,7 @@ x-acquired-note: >-
   Acquired by Red Hat (Jan 2018, ~$250M) and fully absorbed. No independent CoreOS API, developer
   portal, SDKs, or well-known surface exists; coreos.com 301-redirects to Red Hat OpenShift. Open
   source projects live on under github.com/coreos, Fedora CoreOS, Red Hat, and the CNCF.
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-18'
 tags:
