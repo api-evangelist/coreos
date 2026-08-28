@@ -13,6 +13,17 @@ description: >-
   independently; coreos.com redirects to Red Hat OpenShift. The github.com/coreos organization remains
   active as the upstream home for Fedora CoreOS components such as Ignition, Butane, and fleetlock.
 url: https://raw.githubusercontent.com/api-evangelist/coreos/refs/heads/main/apis.yml
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
