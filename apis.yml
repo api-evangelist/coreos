@@ -35,6 +35,8 @@ accessModel:
   source: []
   generated: '2026-07-22'
   method: derived
+  source:
+  - {url: 'http://coreos.com', status: 301, note: 'declared website redirects to https://www.redhat.com/en/technologies/cloud-computing/openshift — a different registrable domain (coreos.com -> redhat.com), possible rename or acquisition (probed 2026-09-03, roadmap#169)'}
 image: https://avatars.githubusercontent.com/u/3730757?v=4
 x-type: company
 x-source: vc-portfolio
