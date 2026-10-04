@@ -65,7 +65,7 @@ tags:
 - Linux
 - Container Registry
 - Infrastructure
-- Open-Source
+- Open Source
 - DevOps
 tags_raw:
 - Company
@@ -77,6 +77,7 @@ tags_raw:
 - Infrastructure
 - Open Source
 - DevOps
+- Open-Source
 apis: []
 maintainers:
 - FN: Kin Lane
